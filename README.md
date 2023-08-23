@@ -1,4 +1,4 @@
-<iframe src="https://github-readme-stats.vercel.app/api?username=internationalhouseofdonald"></iframe>
+https://github-readme-stats.vercel.app/api?username=internationalhouseofdonald
 <!--
 **internationalhouseofdonald/internationalhouseofdonald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
